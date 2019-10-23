@@ -17,7 +17,7 @@
 Blink SDK Plugin for scanning and OCR of credit or payment cards(Debit Cards).
 Get your lincense on [BLINK WEBSITE](https://microblink.com) and go developer dashboard to get your Base64 lincense
 
-<img src="https://github.com/hitmacreed/Cordova-Blink-Card-Reader/blob/master/art/pic1.png?raw=true" width="400">
+<img src="https://github.com/hitmacreed/Cordova-Blink-Card-Reader/blob/master/art/pic1.png?raw=true" width="800">
 
 ## Usage Ionic >= 3 and cordova
 

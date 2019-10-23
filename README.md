@@ -1,4 +1,4 @@
-# Cordova-Blink-Card-Readerr (Android ONLY)
+# Cordova-Blink-Card-Reader (Android ONLY)
 
 ## Example
 <img src="https://github.com/hitmacreed/Cordova-Blink-Card-Reader/blob/master/art/blink-card-fast.gif" width="400">

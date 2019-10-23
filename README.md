@@ -36,7 +36,7 @@ Get your lincense on [BLINK WEBSITE](https://microblink.com) and go developer da
       function (objResult) {
         console.log(objResult);
          /*
-         objResult = [
+         objResult = {
           cardNumber:'xxxx xxxx xxxx xxxx',   
          cardgetOwner:'USERNAME', 
          cardExpDate:'12-12-2019',
@@ -62,7 +62,7 @@ Get your lincense on [BLINK WEBSITE](https://microblink.com) and go developer da
       function (objResult) {
         console.log(objResult)
          /*
-         objResult = [
+         objResult = {
           cardNumber:'xxxx xxxx xxxx xxxx',   
          cardgetOwner:'USERNAME', 
          cardExpDate:'12-12-2019',

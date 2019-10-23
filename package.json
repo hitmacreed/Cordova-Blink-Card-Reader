@@ -1,0 +1,35 @@
+{
+    "name": "BlinkCardReader",
+    "version": "0.0.1",
+    "description": "Plugin for scanning and OCR of credit or payment cards.",
+    "cordova": {
+      "id": "cordova-plugin-blinkcardreader",
+      "platforms": [
+        "android"
+      ]
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hitmacreed/Cordova-Blink-Card-Reader"
+    },
+    "keywords": [
+      "plugin", 
+      "Credit Card",
+      "Debit Card",
+      "read",
+      "BlinkCard",
+      "Blink"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=8.0.0"
+      }
+    ],
+    "author": "Kevin Dias <kevindiasdeda@hotmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hitmacreed/Cordova-Blink-Card-Reader/issues"
+    },
+    "homepage": "https://github.com/hitmacreed/Cordova-Blink-Card-Reader.git"
+  }
